@@ -118,4 +118,3 @@ textbox.configure(yscrollcommand=scrolbar.set)
 scrolbar.config(command=textbox.yview)
 
 win.mainloop()
-
